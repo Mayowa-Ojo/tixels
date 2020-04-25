@@ -1,7 +1,7 @@
 {
-  "name": "Change Web Extention Name",
+  "name": "Tixels",
   "version": "0.0.1",
-  "description": "Change the description of this web extension",
+  "description": "A fun way to mess with your github contributions",
   "manifest_version": 2,
   "browser_action": {
     "default_popup": "./dist/popup.html",
